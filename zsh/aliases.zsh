@@ -1,4 +1,4 @@
-# Personal zsh aliases for betelgei5e betel6eu$e
+# Personal zsh aliases for betelgei5e
 
 # Gnome app launching
 alias txtg="gnome-text-editor"
