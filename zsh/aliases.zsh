@@ -11,6 +11,7 @@ alias imgg="eog"
 # General app launching
 alias bcat="batcat"
 alias chrome="google-chrome-stable"
+alias vim="nvim"
 
 # Spell correction
 alias clera="clear"
