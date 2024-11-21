@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Bash script - install configs and dotfiles for betelgei5e
+
+cp -v ./vim/.vimrc ~/
+cp -v ./tmux/.tmux.conf ~/
