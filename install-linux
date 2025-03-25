@@ -3,4 +3,7 @@
 # Bash script - install configs and dotfiles for betelgei5e
 
 cp -v ./vim/.vimrc ~/
+cp -rv ./nvim ~/.config/
 cp -v ./tmux/.tmux.conf ~/
+cp -v ./zsh/aliases.zsh ~/.oh-my-zsh/custom/
+cp -v ./zsh/envariables.zsh ~/.oh-my-zsh/custom/

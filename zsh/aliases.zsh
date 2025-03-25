@@ -22,3 +22,11 @@ alias killall="killall -v"
 
 # Handy commands
 alias wmcheck="echo $XDG_SESSION_TYPE"
+
+# Shell commands
+alias ls="ls -lh --color=auto"
+alias la="ls -lAh --color=auto"
+alias checksha256="sha256sum -c SHA256SUMS 2>&1 | grep OK"
+
+# Scripts
+alias update-discord="sudo /home/qtml/code/discord-updater-script/discord-updater.sh"
